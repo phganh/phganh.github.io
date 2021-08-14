@@ -1,4 +1,4 @@
 # Portfolio page using github.io
 Orginal: phganh.github.io
 
-webpage @ [phganh.com]
+webpage: [phganh.com](www.phganh.com)
